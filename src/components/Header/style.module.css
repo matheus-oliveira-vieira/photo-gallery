@@ -1,0 +1,6 @@
+.header {
+	@apply p-6 mb-4 shadow-lg;
+}
+.title {
+	@apply text-4xl mx-auto max-w-4xl text-center font-bold;
+}
